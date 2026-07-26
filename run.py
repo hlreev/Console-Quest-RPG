@@ -1,8 +1,5 @@
 '''
-File: run.py
-Description: Initializes the game in the console/terminal.
-Author: Hannah Reeves
-Date: 2026-07-18
+run.py: Initializes the game in the console/terminal.
 '''
 
 from modules.main import hello_world
